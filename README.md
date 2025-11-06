@@ -185,6 +185,11 @@ Pour commander, contactez-nous par email en précisant :
 - Guide de maintenance
 - FAQ et dépannage
 
+
+
+<img width="1919" height="1020" alt="Capture d&#39;écran 2025-11-06 121219" src="https://github.com/user-attachments/assets/3c53410b-ac54-4de8-bb35-233f4d6b44a7" />
+
+
 ---
 
 **Développé avec ❤️ par tectoget.tn**
