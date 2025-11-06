@@ -185,9 +185,18 @@ Pour commander, contactez-nous par email en précisant :
 - Guide de maintenance
 - FAQ et dépannage
 
+## 📸 Captures d'Écran
 
 
 <img width="1919" height="1020" alt="Capture d&#39;écran 2025-11-06 121219" src="https://github.com/user-attachments/assets/3c53410b-ac54-4de8-bb35-233f4d6b44a7" />
+
+<img width="1919" height="1018" alt="Capture d&#39;écran 2025-11-06 121310" src="https://github.com/user-attachments/assets/6f6bbcc0-67de-45a8-9f42-c99687e8c2fb" />
+
+<img width="1919" height="1015" alt="Capture d&#39;écran 2025-11-06 121256" src="https://github.com/user-attachments/assets/2a3b428d-3501-44f1-8e99-51cfd0b4cc69" />
+
+<img width="1919" height="1020" alt="Capture d&#39;écran 2025-11-06 121211" src="https://github.com/user-attachments/assets/375a3ea7-bbe2-492b-ae9d-b516d31bed0e" />
+
+<img width="1919" height="1020" alt="Capture d&#39;écran 2025-11-06 121219" src="https://github.com/user-attachments/assets/98687d37-0613-41b8-b88a-c3415733cf84" />
 
 
 ---
